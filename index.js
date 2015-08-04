@@ -5,8 +5,7 @@
  * @version 1.0.0
  */
 
-var light = require("light-core")
-  , conf = light.framework.config
+var conf = light.framework.config
   , helper = light.framework.helper
   , error = light.framework.error
   ;

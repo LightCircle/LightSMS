@@ -7,8 +7,7 @@
 
 "use strict";
 
-var light = require("light-core")
-  , conf = light.framework.config
+var conf = light.framework.config
   , constant = require("./constant")
   , https = require('https')
   , querystring = require('querystring');

@@ -8,8 +8,7 @@
 "use strict";
 
 
-var light    = require("light-core")
-  , conf     = light.framework.config
+var conf     = light.framework.config
   , request  = light.util.request
   , errors   = light.framework.error
   , _        = light.util.underscore
