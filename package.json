@@ -1,17 +1,17 @@
 {
   "name": "light-sms",
-  "version": "0.0.1",
-  "description": "LightSMS ===========",
+  "version": "0.1.0",
+  "description": "LightSMS",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node test/test.js"
   },
   "repository": {
     "type": "git",
     "url": "https://github.com/LightCircle/LightSMS.git"
   },
   "keywords": [
-    "sms"
+    "light, sms"
   ],
   "author": "r2space",
   "license": "MTL",
@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/LightCircle/LightSMS",
   "dependencies": {
-    "light-core": "git+http://git.alphabets.cn/root/LightCore.git"
+    "light-core": "0.1.1",
+    "xml-parser": "1.2.1"
   }
 }
