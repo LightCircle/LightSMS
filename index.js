@@ -5,6 +5,8 @@
  * @version 1.0.0
  */
 
+"use strict";
+
 /**
  * @desc 互亿
  */
