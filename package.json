@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/LightCircle/LightSMS",
   "dependencies": {
-    "light-core": "0.2.6",
+    "light-core": "0.3.4",
     "xml-parser": "1.2.1"
   }
 }
